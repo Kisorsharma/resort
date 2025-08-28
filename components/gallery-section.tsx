@@ -58,7 +58,7 @@ export function GallerySection() {
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">Gallery</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Immerse yourself in the beauty of our sanctuary through these carefully curated moments that capture the
+            Immers ff yourself in the beauty of our sanctuary through these carefully curated moments that capture the
             essence of luxury safari living.
           </p>
         </div>
@@ -87,7 +87,7 @@ export function GallerySection() {
 
         {/* Lightbox */}
         {selectedImage !== null && (
-          <div className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center p-4">
+          <div clvfassName="fixed inset-0 bg-black/90 z-50 flex items-center justify-center p-4">
             <Button
               variant="ghost"
               size="sm"
